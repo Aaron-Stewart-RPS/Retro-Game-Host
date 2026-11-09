@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Games/">
+    <Project Path="Games/GameHost.Asteroids.Engine/GameHost.Asteroids.Engine.csproj" Id="3c73eb9b-c7c2-45c4-81bb-d0996da7a42f" />
+    <Project Path="Games/GameHost.Asteroids.Rendering/GameHost.Asteroids.Rendering.csproj" Id="3b779787-27d0-46e9-995b-f674618f4fe5" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/GameHost.Presentaion.Desktop/GameHost.Presentaion.Desktop.csproj" />
+    <Project Path="Presentation/GameHost.Presentaion/GameHost.Presentaion.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/GameHost.Shared.Rendering/GameHost.Shared.Rendering.csproj" Id="9d0f496a-95f8-4d63-bc43-474d3ae22ab7" />
+    <Project Path="Shared/GameHost.Shared.GameState/GameHost.Shared.GameState.csproj" Id="4e08650f-5eea-478c-8960-ff2f5d5a1ce0" />
+  </Folder>
+</Solution>
